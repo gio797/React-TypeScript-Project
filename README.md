@@ -2,4 +2,4 @@
 
 Hangman Game - using React and TypeScrypt
 
-![screenshot](./src/assets/hangman.png)
+![screenshot](./src/assets/hangman2.png)
